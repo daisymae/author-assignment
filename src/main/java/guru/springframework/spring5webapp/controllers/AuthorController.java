@@ -17,7 +17,7 @@ public class AuthorController {
 
   /**
    * get the authors for viewing
-   * @param model the model
+   * @param model the Spring MVC Model
    * @return the view name
    */
   @RequestMapping("/authors")
